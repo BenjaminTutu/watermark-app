@@ -63,7 +63,7 @@ WatermarkApp class handles:
 
 **Notes / Tips**
 
-The logo is automatically resized to 25% of image width for consistent appearance.
+The logo is automatically resized to 25% of the image width for a consistent appearance.
 For large images, the preview is scaled to fit the screen.
 JPG files do not support transparency; the program converts RGBA → RGB automatically.
 You can customize:
@@ -74,5 +74,5 @@ You can customize:
 **Future Improvements**
 
 • Add position options (top-left, center, bottom-left)
-• Add opacity slider to make watermark semi-transparent
+• Add an opacity slider to make the watermark semi-transparent
 • Batch watermark multiple images at once
