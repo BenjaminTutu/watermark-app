@@ -28,14 +28,17 @@ Supports JPG, JPEG, PNG for images and PNG logos with transparency.
 1. Clone the repository:
 
 git clone https://github.com/BenjaminTutu/watermark-app.git
+
 cd watermark-app
 
 2. Create a virtual environment (optional but recommended):
 python -m venv venv
-source venv/bin/activate  → for Linux/macOS
-venv\Scripts\activate     → for Windows
+source venv/bin/activate
+→ for Linux/macOS
+venv\Scripts\activate
+→ for Windows
 
-3. Install dependencies:
+4. Install dependencies:
 pip install pillow
 
 **Usage**
