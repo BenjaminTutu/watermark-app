@@ -4,7 +4,7 @@ A simple Python GUI application to add a watermark logo to your images using Tki
 Supports JPG, JPEG, PNG for images and PNG logos with transparency.
 
 **Features**
-• Select any image (JPG, JPEG, PNG)
+• Select any image (JPG, JPEG, PNG)  
 • Select a transparent PNG logo as a watermark
 • Automatically resizes logo (max 25% of image width)
 • Places watermark at bottom-right corner by default
